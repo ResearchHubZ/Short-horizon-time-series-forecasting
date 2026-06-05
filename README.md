@@ -6,11 +6,11 @@ This repository includes five anonymized private time series datasets collected 
 
 | Dataset | Domain | Time Range | Frequency | Samples | Variables | 
 |---|---|---|---|---:|---:|
-| RTT | Power | 2024/01/01–2025/06/15 | 1 hour | 12,624 | 1 | 
-| REC | Power | 2023/01/01–2026/01/06 | 1 day | 1,102 | 4 | 
-| TED | Power | 2025/04/01–2025/09/30 | 1 hour | 4,392 | 1 | 
-| DSO | Power | 2023/01/01–2025/08/15 | 15 minutes | 91,488 | 7 | 
-| HTF | Traffic | 2025/05/01–2025/05/31 | 15 minutes | 2,880 | 46 | 
+| RTT | Power | 2024/01/01–2025/06/15 | 1 h | 12,624 | 1 | 
+| REC | Power | 2023/01/01–2026/01/06 | 1 d | 1,102 | 4 | 
+| TED | Power | 2025/04/01–2025/09/30 | 1 h | 4,392 | 1 | 
+| DSO | Power | 2023/01/01–2025/08/15 | 15 min | 91,488 | 7 | 
+| HTF | Traffic | 2025/05/01–2025/05/31 | 15 min | 2,880 | 46 | 
 
 
 ### 1. RTT Dataset
