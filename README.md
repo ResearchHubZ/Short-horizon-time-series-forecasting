@@ -51,4 +51,6 @@ This repository includes five anonymized private time series datasets collected 
 
 - **Data Characteristics:** HTF is a 15-minute traffic flow time series dataset. The core fields include `date` and 46 anonymized gantry monitoring point fields. Each monitoring point field represents the vehicle flow at the corresponding gantry within a specific 15-minute interval. This dataset can reflect intra-day traffic peak and off-peak patterns, as well as traffic flow variations under workday, weekend, and holiday conditions.
 
-- **Data Processing and Quality Control:** To ensure data reliability and usability, the HTF dataset was checked for time continuity, duplicate records, and abnormal traffic flow values. 
+- **Data Processing and Quality Control:** To ensure data reliability and usability, the HTF dataset was checked for time continuity, duplicate records, and abnormal traffic flow values.
+
+Due to the involvement of real power-system operation information, electricity market transaction records, and user-side electricity consumption statistics, the complete dataset is not publicly available for privacy protection and data security reasons. Sample data can be obtained by contacting the corresponding author, with usage limited to academic research and replication studies.
